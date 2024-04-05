@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/skyboard/static/css/main.2d4be8dd.css",
-    "main.js": "/skyboard/static/js/main.0eb3707c.js",
+    "main.css": "/skyboard/static/css/main.783da1dd.css",
+    "main.js": "/skyboard/static/js/main.fb056b33.js",
     "static/js/453.482b6389.chunk.js": "/skyboard/static/js/453.482b6389.chunk.js",
     "static/media/SourceSans.ttf": "/skyboard/static/media/SourceSans.f0bd6d1942b9ef5e8026.ttf",
-    "static/media/createLobbyImg1.png": "/skyboard/static/media/createLobbyImg1.91f66a8f33d77e1a4f5f.png",
     "static/media/Poppins.ttf": "/skyboard/static/media/Poppins.35d26b781dc5fda684cc.ttf",
     "static/media/registerCarouselImg1.png": "/skyboard/static/media/registerCarouselImg1.baaa94a29d9f40d76833.png",
     "static/media/Quantico.ttf": "/skyboard/static/media/Quantico.3faac7b366ab13616d56.ttf",
     "index.html": "/skyboard/index.html",
-    "main.2d4be8dd.css.map": "/skyboard/static/css/main.2d4be8dd.css.map",
-    "main.0eb3707c.js.map": "/skyboard/static/js/main.0eb3707c.js.map",
+    "main.783da1dd.css.map": "/skyboard/static/css/main.783da1dd.css.map",
+    "main.fb056b33.js.map": "/skyboard/static/js/main.fb056b33.js.map",
     "453.482b6389.chunk.js.map": "/skyboard/static/js/453.482b6389.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d4be8dd.css",
-    "static/js/main.0eb3707c.js"
+    "static/css/main.783da1dd.css",
+    "static/js/main.fb056b33.js"
   ]
 }
