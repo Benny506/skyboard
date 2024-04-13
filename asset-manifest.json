@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/skyboard/static/css/main.adb887a5.css",
-    "main.js": "/skyboard/static/js/main.14daa48b.js",
+    "main.css": "/skyboard/static/css/main.3e2d4b69.css",
+    "main.js": "/skyboard/static/js/main.ca730572.js",
     "static/js/453.482b6389.chunk.js": "/skyboard/static/js/453.482b6389.chunk.js",
     "static/media/Slider_5.svg": "/skyboard/static/media/Slider_5.fc7890317477697552abb2b14899c970.svg",
     "static/media/SourceSans.ttf": "/skyboard/static/media/SourceSans.f0bd6d1942b9ef5e8026.ttf",
@@ -39,12 +39,12 @@
     "index.html": "/skyboard/index.html",
     "static/media/Bg.svg": "/skyboard/static/media/Bg.bab5d976d0c4b6f33674.svg",
     "static/media/Active.svg": "/skyboard/static/media/Active.04cf8d1955d357d60f61fc5842e31858.svg",
-    "main.adb887a5.css.map": "/skyboard/static/css/main.adb887a5.css.map",
-    "main.14daa48b.js.map": "/skyboard/static/js/main.14daa48b.js.map",
+    "main.3e2d4b69.css.map": "/skyboard/static/css/main.3e2d4b69.css.map",
+    "main.ca730572.js.map": "/skyboard/static/js/main.ca730572.js.map",
     "453.482b6389.chunk.js.map": "/skyboard/static/js/453.482b6389.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.adb887a5.css",
-    "static/js/main.14daa48b.js"
+    "static/css/main.3e2d4b69.css",
+    "static/js/main.ca730572.js"
   ]
 }
