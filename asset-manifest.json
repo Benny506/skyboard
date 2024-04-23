@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/skyboard/static/css/main.65302eaf.css",
-    "main.js": "/skyboard/static/js/main.225a5619.js",
+    "main.css": "/skyboard/static/css/main.5a6b83ae.css",
+    "main.js": "/skyboard/static/js/main.60e28458.js",
     "static/js/453.482b6389.chunk.js": "/skyboard/static/js/453.482b6389.chunk.js",
     "static/media/SourceSans.ttf": "/skyboard/static/media/SourceSans.f0bd6d1942b9ef5e8026.ttf",
     "static/media/ludoGame.png": "/skyboard/static/media/ludoGame.91f66a8f33d77e1a4f5f.png",
@@ -22,11 +22,13 @@
     "static/media/SnookerBoard.svg": "/skyboard/static/media/SnookerBoard.a3fcf6efd5366017a1a344abf1c96296.svg",
     "static/media/GreatYU.svg": "/skyboard/static/media/GreatYU.5e9266669a6bc816f82fd55132f8356f.svg",
     "static/media/GreatYUtwo.svg": "/skyboard/static/media/GreatYUtwo.c46e4fa3869520199a7e4b6eb711c09f.svg",
+    "static/media/Faces.png": "/skyboard/static/media/Faces.7833a41ddb8e78bacd2c.png",
     "static/media/ChessGames.svg": "/skyboard/static/media/ChessGames.f69010aa8c91cab2c952baa1b1b0b45d.svg",
     "static/media/Ludotournament.png": "/skyboard/static/media/Ludotournament.aa1c744390f67b105ed4.png",
     "static/media/LudoKing.svg": "/skyboard/static/media/LudoKing.6bf80daae95f33d15ecd2bca1258fdda.svg",
     "static/media/WhotGames.svg": "/skyboard/static/media/WhotGames.789e813b9c48d88b5310d5e0187f7436.svg",
     "static/media/ScrabbleGames.svg": "/skyboard/static/media/ScrabbleGames.b8091875c7eef6a855eac78cfaf56396.svg",
+    "static/media/winnerImg.png": "/skyboard/static/media/winnerImg.78677d7dee0d86e19c88.png",
     "static/media/logowithname.svg": "/skyboard/static/media/logowithname.aeda08277e5a6885a73988ce1801ef55.svg",
     "static/media/Quantico.ttf": "/skyboard/static/media/Quantico.3faac7b366ab13616d56.ttf",
     "static/media/Profile.png": "/skyboard/static/media/Profile.afab029ae19ea928c268.png",
@@ -54,12 +56,12 @@
     "static/media/ActiveLaptopicon.svg": "/skyboard/static/media/ActiveLaptopicon.e11ad78b26e404d742c129efeb690eb7.svg",
     "static/media/ChessActiveicon.svg": "/skyboard/static/media/ChessActiveicon.614a5bdb7f123da7c5c48a5dbc9cb04c.svg",
     "static/media/Active.svg": "/skyboard/static/media/Active.04cf8d1955d357d60f61fc5842e31858.svg",
-    "main.65302eaf.css.map": "/skyboard/static/css/main.65302eaf.css.map",
-    "main.225a5619.js.map": "/skyboard/static/js/main.225a5619.js.map",
+    "main.5a6b83ae.css.map": "/skyboard/static/css/main.5a6b83ae.css.map",
+    "main.60e28458.js.map": "/skyboard/static/js/main.60e28458.js.map",
     "453.482b6389.chunk.js.map": "/skyboard/static/js/453.482b6389.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65302eaf.css",
-    "static/js/main.225a5619.js"
+    "static/css/main.5a6b83ae.css",
+    "static/js/main.60e28458.js"
   ]
 }
